@@ -5,7 +5,7 @@
         "Crear una interesante animacion con la pseudoclase <b>:hover</b> de CSS",
       "tags": ["html", "css"],
       "date": "21/07/2021",
-      "url": "https://www.google.com",
+      "url": "https://www.google.com"
     },
     {
       "title": "Menu Hamburguesa",
@@ -13,7 +13,7 @@
         "Crear el famoso <b>boton hamburguesa</b> con una linda animacion usando CSS y JavaScript",
       "tags": ["html", "css", "js"],
       "date": "21/07/2021",
-      "url": "https://www.google.com",
+      "url": "https://www.google.com"
     },
     {
       "title": "Ejercicios de Programacion",
@@ -21,7 +21,7 @@
         "Buscando solucion a algunos ejercicios de programacion de mi colegio",
       "tags": ["js", "dev"],
       "date": "21/07/2021",
-      "url": "https://www.google.com",
+      "url": "https://www.google.com"
     },
     {
       "title": "Metodos de los Arrays JS",
@@ -29,7 +29,7 @@
         "Comentando un poco sobre algunos metodos utiles de los arreglos en JS y ejemplos interesantes.",
       "tags": ["dev", "js", "nuevo"],
       "date": "21/07/2021",
-      "url": "https://www.google.com",
+      "url": "https://www.google.com"
     },
     {
       "title": "PanLar Blog",
@@ -37,7 +37,7 @@
         "Creando un nuevo blog muy innovador",
       "tags": ["dev", "nuevo"],
       "date": "27/07/2021",
-      "url": "https://panlar.github.io/blog",
+      "url": "https://panlar.github.io/blog"
     },
     {
       "title": "Fetch",
@@ -45,7 +45,7 @@
         "Haciendo ejercicios utilizando la API de fecth",
       "tags": ["dev", "js", "api"],
       "date": "27/07/2021",
-      "url": "https://www.google.com",
+      "url": "https://www.google.com"
     },
     {
       "title": "Async/Await",
@@ -53,6 +53,6 @@
         "Haciendo ejercicios utilizando la API de fecth, pero ahora utilizando funciones asincronas con async/await",
       "tags": ["dev", "js", "api"],
       "date": "27/07/2021",
-      "url": "https://www.google.com",
-    },
+      "url": "https://www.google.com"
+    }
   ]
